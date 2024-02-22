@@ -1,4 +1,4 @@
-#!/use/bin/env node
+#!/usr/bin/env node
 //@ts-check
 const readlinePromises = require('node:readline/promises');
 const { processName } = require("./processName");
