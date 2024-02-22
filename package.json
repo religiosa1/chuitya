@@ -1,0 +1,12 @@
+{
+  "name": "chuitya",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test ./src/__tests__/processName.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
